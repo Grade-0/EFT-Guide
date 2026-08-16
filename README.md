@@ -31,3 +31,5 @@ The guide's **Check online** button can compare its bundled game data with curre
 ## Attribution
 
 Game names and imagery belong to their respective owners. Community item data and image links originate from the Tarkov.dev ecosystem. This fan-made guide is not affiliated with or endorsed by Battlestate Games.
+
+https://grade-0.github.io/EFT-Guide/
