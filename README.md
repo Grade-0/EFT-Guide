@@ -1,4 +1,6 @@
-# Tarkov Field Guide — GitHub Pages package
+# Tarkov Field Guide - https://grade-0.github.io/EFT-Guide/
+
+# GitHub Pages package
 
 This package contains the complete standalone Tarkov Field Guide and its locally hosted item icons.
 
